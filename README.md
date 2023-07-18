@@ -5,7 +5,7 @@
 - HW1：Regression [[code]](<https://github.com/zjimf/LML/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85ML/HW01/HW01.ipynb>)
 - HW2：Classification [[code]](<https://github.com/zjimf/LML/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85ML/HW02/HW02.ipynb>)
 - HW3：CNN [[code]](<https://github.com/zjimf/LML/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85ML/HW03/HW03.ipynb>)
-- HW4：Self-Attention [[code]](<>)
+- HW4：Self-Attention [[code]](<https://github.com/zjimf/LML/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85ML/HW04/HW04.ipynb>)
 
 ### Reference
 - [HUNG-YI LEE ML 2021](<https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php>)
@@ -14,3 +14,5 @@
 ---
 ##### Homework received a lot of help from the reference, I'll continue to study hard, thanks a lot! :smile:
 ---
+
+## Kaggle

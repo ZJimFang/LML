@@ -6,6 +6,7 @@
 - HW2：Classification [[code]](<https://github.com/zjimf/LML/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85ML/HW02/HW02.ipynb>)
 - HW3：CNN [[code]](<https://github.com/zjimf/LML/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85ML/HW03/HW03.ipynb>)
 - HW4：Self-Attention [[code]](<https://github.com/zjimf/LML/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85ML/HW04/HW04.ipynb>)
+- HW5：Transformer [[code]](<https://github.com/zjimf/LML/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85ML/HW05/HW05.ipynb>)
 
 ### Reference
 - [HUNG-YI LEE ML 2021](<https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php>)

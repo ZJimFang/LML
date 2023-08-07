@@ -12,8 +12,8 @@
 - [Explainable ML](<https://www.notion.so/Explainable-ML-7297fd51235a4d378c0e90e44d2ec1c5?pvs=4>)
 - [RL](<https://www.notion.so/Reinforcement-Learning-56d3b0dcfdf2458f84d266b9ba5e0177?pvs=4>)
 - [LLL](<https://www.notion.so/Life-Long-Learning-fbf0e556a7354f7a9d09a156d1340133?pvs=4>)
-- [Network Compression](<>)
-- [Meta Learning](<>)
+- [Network Compression](<https://www.notion.so/Network-Compression-33beb535c773476e85b94ae0cb5d49c8?pvs=4>)
+- Meta Learning
 
 
 ### Courses

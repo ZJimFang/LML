@@ -13,7 +13,7 @@
 - [RL](<https://www.notion.so/Reinforcement-Learning-56d3b0dcfdf2458f84d266b9ba5e0177?pvs=4>)
 - [LLL](<https://www.notion.so/Life-Long-Learning-fbf0e556a7354f7a9d09a156d1340133?pvs=4>)
 - [Network Compression](<https://www.notion.so/Network-Compression-33beb535c773476e85b94ae0cb5d49c8?pvs=4>)
-- Meta Learning
+- [Meta Learning](<https://www.notion.so/Meta-Learning-19718105e7d64c04b70961a926fa1f71?pvs=4>)
 
 
 ### Courses

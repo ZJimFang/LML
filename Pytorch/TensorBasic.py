@@ -4,11 +4,11 @@ import numpy as np
 """
 create tensor (Pytorch only know tensor)
 """
-# x = torch.rand(4, 4)
-# y = torch.rand(4, 4)
-# x = torch.zeros(2, 2)
-# x = torch.ones(2, 2, dtype=torch.float16)
-# x = torch.tensor([2.4, 0.1])
+x = torch.rand(4, 4)
+y = torch.rand(4, 4)
+x = torch.zeros(2, 2)
+x = torch.ones(2, 2, dtype=torch.float16)
+x = torch.tensor([2.4, 0.1])
 
 """
 calculate, if doing in-place calculation need add _

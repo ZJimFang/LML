@@ -1,4 +1,4 @@
-### 李宏毅 ML 2021 Notes
+### **李宏毅 ML 2021 Notes**
 
 - [Training ML model](https://www.notion.so/Training-ML-model-73669adc1fbe4a89910282d8356be30c?pvs=4)
 - [Classification](https://www.notion.so/Classification-13dc13b11a4a48259780515d6953bf04?pvs=4)
@@ -16,7 +16,7 @@
 - [Network Compression](https://www.notion.so/Network-Compression-33beb535c773476e85b94ae0cb5d49c8?pvs=4)
 - [Meta Learning](https://www.notion.so/Meta-Learning-19718105e7d64c04b70961a926fa1f71?pvs=4)
 
-### Courses
+### **Courses**
 
 - HW1：Regression [[code]](<https://github.com/zjimf/LML/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85ML/HW01/HW01.ipynb>)
 - HW2：Classification [[code]](<https://github.com/zjimf/LML/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85ML/HW02/HW02.ipynb>)
@@ -24,12 +24,18 @@
 - HW4：Self-Attention [[code]](<https://github.com/zjimf/LML/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85ML/HW04/HW04.ipynb>)
 - HW5：Transformer [[code]](<https://github.com/zjimf/LML/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85ML/HW05/HW05.ipynb>)
 
-### Reference
+### **Kaggle**
+
+- MNIST [[Overview]](https://www.kaggle.com/competitions/digit-recognizer?rvi=1) [[code]](<https://github.com/zjimf/LML/blob/master/kaggle/MNIST/MNIST.ipynb>)
+- Titanic [[Overview]](https://www.kaggle.com/c/titanic) [[code]](<https://github.com/zjimf/LML/blob/master/kaggle/Titanic/Titanic.ipynb>)
+
+### **Reference**
 
 - [HUNG-YI LEE ML 2021](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)
 - [Pytorch tutorial](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
 - [1am9trash](https://github.com/1am9trash/Hung_Yi_Lee_ML_2021)
 - [Nancy1229](https://github.com/Nancy1229/ML2021-Spring)
+- [Titanic](https://medium.com/jameslearningnote/%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%AC%AC4-1%E8%AC%9B-kaggle%E7%AB%B6%E8%B3%BD-%E9%90%B5%E9%81%94%E5%B0%BC%E8%99%9F%E7%94%9F%E5%AD%98%E9%A0%90%E6%B8%AC-%E5%89%8D16-%E6%8E%92%E5%90%8D-a8842fea7077)
 
 ---
 
